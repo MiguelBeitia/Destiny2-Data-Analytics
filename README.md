@@ -32,6 +32,33 @@ Como fuente de datos se han utilizado distintas paguinas web:
         - Ademas se intento utilizar el API que posee Bungie, pero no se ha logrado optener la información que se buscaba
 
 
+## Pasos seguidos
+
+
+1. Primero se ha escogido la Idea, al ser jugador habitual del Destiny 2 decidi realizar un analisis completo del mismo.
+
+2. Realizar la busqueda de información que decidi utilizar para elaborar el proyecto.
+
+3. Una vez echa la busqueda de información la optención de los links mendiante el Addon de Instant Data Scrapper.
+                
+                - De Light.gg
+                
+                - Del resto de Datos se podia realizar mediante Ctrl + C y Ctrl + V
+
+                - De Google Trends se pueden descargar los archivos en modo CSV
+
+4. Con los links optenidos realizar el Scrapeo de los links para la optención de los datos necesitados.
+
+5. No se ha realizado la limpieza de los valores Nulos debido a que son de objetos que no se pueden volver a optener por lo que para realizar el analisis seran de utilidad
+
+6. Una vez optenidos todo los datos se ha realizado el PowerBI para la visualización de los mismos datos.
+
+## 
+
+
+
+
+
 ### Links:
 
 
