@@ -77,14 +77,14 @@ Se han realizado 2 presentaciones:
 ### Links:
 
 
-Google trends: https://trends.google.es/trends/?geo=ES
+- Google trends: https://trends.google.es/trends/?geo=ES
 
-Twitch tracker: https://twitchtracker.com/games/497057
+- Twitch tracker: https://twitchtracker.com/games/497057
 
-Steam Charts: https://steamcharts.com/app/1085660
+- Steam Charts: https://steamcharts.com/app/1085660
 
-Light.gg :https://www.light.gg/
+- Light.gg :https://www.light.gg/
 
-Wasted on Destiny: https://wastedondestiny.com/leaderboard
+- Wasted on Destiny: https://wastedondestiny.com/leaderboard
 
-API: https://data.destinysets.com/api
+- API: https://data.destinysets.com/api
