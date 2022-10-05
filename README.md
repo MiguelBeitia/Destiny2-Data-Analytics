@@ -53,7 +53,16 @@ Como fuente de datos se han utilizado distintas paguinas web:
 
 6. Una vez optenidos todo los datos se ha realizado el PowerBI para la visualización de los mismos datos.
 
-## 
+## Información Destacable
+
+- Las busquedas o viewers en Internet aumentan cuando han sacado alguna Expansión o en la salida del juego.
+
+- La mayor cantidad de busquedas estan en EEUU o Canada. 
+
+- El pico más alto lo tuvo en 2019 
+
+- El 41,67% de los Destinos, 31,03% de Asaltos, 45,45% de Incursiones y 27,27% de los mapas de PvP han sido archivados (eliminados).
+
 
 
 
