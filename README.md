@@ -39,13 +39,13 @@ Como fuente de datos se han utilizado distintas paguinas web:
 
 2. Realizar la busqueda de información que decidi utilizar para elaborar el proyecto.
 
-3. Una vez echa la busqueda de información la optención de los links mendiante el Addon de Instant Data Scrapper.
+3. Una vez echa la busqueda de información necesitara se realizara la optención.
                 
-                - De Light.gg
+                - El uso del Scrapeo mediante el Addon Instant Data Scraper de la paguina Light.gg
                 
-                - Del resto de Datos se podia realizar mediante Ctrl + C y Ctrl + V
+                - El resto de Datos se podia realizar mediante Ctrl + C y Ctrl + V
 
-                - De Google Trends se pueden descargar los archivos en modo CSV
+                - Los datos opetenidos por Google Trends se  descargararan directamente en archivos CSV.
 
 4. Con los links optenidos realizar el Scrapeo de los links para la optención de los datos necesitados.
 
