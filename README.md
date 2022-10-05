@@ -64,7 +64,13 @@ Como fuente de datos se han utilizado distintas paguinas web:
 - El 41,67% de los Destinos, 31,03% de Asaltos, 45,45% de Incursiones y 27,27% de los mapas de PvP han sido archivados (eliminados).
 
 
+#### Extra
 
+Se han realizado 2 presentaciones:
+
+- Larga: Contiene más información representado en distintos graficos
+
+- Corta: Menos información más compactada
 
 
 
